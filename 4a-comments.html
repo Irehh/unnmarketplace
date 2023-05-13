@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PHP MYSQL Comments</title>
+    <meta charset="utf-8">
+    <script src="4b-comments.js"></script>
+    <link href="4c-comments.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- (A) GIVE THIS PAGE A HIDDEN POST ID -->
+    <input type="hidden" id="pid" value="999">
+
+    <!-- (C) ADD NEW COMMENT -->
+    <form id="cAdd" onsubmit="return comments.add(this)">
+      <input type="text" id="cName" placeholder="Name" required>
+      <textarea id="cMsg" placeholder="Message" required></textarea>
+      <input type="submit" value="Post Comment">
+    </form>
+
+     <!-- (B) COMMENTS WILL LOAD HERE -->
+     <div id="cWrap"></div>
+     
+  </body>
+</html>

@@ -1,0 +1,245 @@
+[27-Feb-2023 14:26:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[27-Feb-2023 14:26:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[02-Mar-2023 18:09:18 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 186
+[02-Mar-2023 18:09:59 UTC] PHP Warning:  unlink(../profile_image/): Is a directory in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 112
+[03-Mar-2023 14:43:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[03-Mar-2023 14:43:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[05-Mar-2023 22:51:56 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 197
+[08-Mar-2023 16:21:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[08-Mar-2023 16:21:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[09-Mar-2023 18:52:02 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 197
+[12-Mar-2023 21:27:18 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 200
+[12-Mar-2023 21:32:39 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 200
+[12-Mar-2023 21:33:13 UTC] PHP Warning:  unlink(../profile_image/): Is a directory in /home/sitiqwtd/unnmarketplace.live/user/Update_profile_details.php on line 112
+[12-Mar-2023 21:59:04 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[12-Mar-2023 22:00:11 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 00:12:33 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 00:13:22 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[15-Mar-2023 00:13:23 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 00:13:47 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[15-Mar-2023 00:13:47 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 00:14:08 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[15-Mar-2023 00:14:08 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 00:14:29 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[15-Mar-2023 00:14:29 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 200
+[15-Mar-2023 07:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 08:12:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/additem.php(238): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:14:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:18:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 08:22:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/additem.php(238): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 07:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 08:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 11:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 11:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 11:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 13:27:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/dashboard.php(129): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 14:28:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_cose() in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php:13
+Stack trace:
+#0 /home/sitiqwtd/unnmarketplace.live/user/additem.php(238): include()
+#1 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/forms/forms_footer.php on line 13
+[15-Mar-2023 21:32:46 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[16-Mar-2023 02:09:16 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[17-Mar-2023 16:11:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[17-Mar-2023 16:11:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[17-Mar-2023 16:12:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[17-Mar-2023 16:12:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[17-Mar-2023 16:12:49 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[17-Mar-2023 16:13:16 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:13:17 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[17-Mar-2023 16:14:08 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:14:09 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[17-Mar-2023 16:14:24 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:14:24 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[17-Mar-2023 16:14:35 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:14:35 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[17-Mar-2023 16:14:54 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:14:54 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[17-Mar-2023 16:15:16 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:15:16 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[17-Mar-2023 16:15:31 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[17-Mar-2023 16:15:31 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[18-Mar-2023 10:42:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[18-Mar-2023 10:42:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[18-Mar-2023 10:47:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[18-Mar-2023 10:47:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[18-Mar-2023 10:47:37 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[18-Mar-2023 10:48:01 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[18-Mar-2023 10:48:01 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[18-Mar-2023 10:48:17 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[18-Mar-2023 10:48:17 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[18-Mar-2023 10:48:54 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[18-Mar-2023 10:48:54 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[18-Mar-2023 10:52:30 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[18-Mar-2023 10:52:31 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[18-Mar-2023 10:52:41 UTC] PHP Notice:  Undefined index: tags in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 36
+[18-Mar-2023 10:52:41 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 52
+[18-Mar-2023 12:05:08 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 191
+[18-Mar-2023 12:08:34 UTC] PHP Notice:  Undefined variable: response in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 194
+[18-Mar-2023 12:16:00 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 50
+[18-Mar-2023 12:27:48 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 50
+[18-Mar-2023 12:31:51 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 50
+[18-Mar-2023 12:44:48 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/sitiqwtd/unnmarketplace.live/user/update_profile_details.php on line 50
+[19-Mar-2023 09:55:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[19-Mar-2023 09:55:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[19-Mar-2023 09:56:24 UTC] PHP Warning:  unlink(../images/6412782aa6e1f.jpg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[19-Mar-2023 09:56:25 UTC] PHP Warning:  unlink(../images/6412782aa6e1f.jpg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[19-Mar-2023 09:56:28 UTC] PHP Warning:  unlink(../images/6412782aa6e1f.jpg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[19-Mar-2023 10:05:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[19-Mar-2023 10:05:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[19-Mar-2023 10:11:13 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[19-Mar-2023 10:11:32 UTC] PHP Warning:  unlink(../images/): Is a directory in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 84
+[19-Mar-2023 10:11:32 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[19-Mar-2023 10:11:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[19-Mar-2023 10:11:32 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[19-Mar-2023 13:19:36 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[19-Mar-2023 13:19:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[19-Mar-2023 13:19:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[19-Mar-2023 13:19:54 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[19-Mar-2023 13:20:44 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[19-Mar-2023 13:21:18 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[19-Mar-2023 13:21:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[19-Mar-2023 13:21:18 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[24-Mar-2023 08:24:57 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[24-Mar-2023 08:25:32 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[24-Mar-2023 08:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[24-Mar-2023 08:25:32 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 192
+[29-Mar-2023 19:54:14 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 209
+[29-Mar-2023 19:55:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[29-Mar-2023 19:55:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[29-Mar-2023 19:55:22 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 209
+[07-Apr-2023 23:46:18 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 270
+[07-Apr-2023 23:47:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[07-Apr-2023 23:47:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[07-Apr-2023 23:47:13 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 270
+[07-Apr-2023 23:47:48 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 270
+[07-Apr-2023 23:48:04 UTC] PHP Warning:  unlink(../images/): Is a directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[08-Apr-2023 08:29:49 UTC] PHP Warning:  unlink(../images/642305a799693.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[08-Apr-2023 08:35:57 UTC] PHP Warning:  unlink(../images/642305a799693.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[08-Apr-2023 08:37:16 UTC] PHP Warning:  imagejpeg(../images/): failed to open stream: Is a directory in /home/sitiqwtd/unnmarketplace.live/user/additem.php on line 103
+[08-Apr-2023 08:46:25 UTC] PHP Warning:  unlink(../images/642305a799693.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[08-Apr-2023 08:47:24 UTC] PHP Warning:  imagejpeg(../images/): failed to open stream: Is a directory in /home/sitiqwtd/unnmarketplace.live/user/additem.php on line 108
+[08-Apr-2023 11:05:27 UTC] PHP Warning:  unlink(../images/642305a799693.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[09-Apr-2023 03:57:48 UTC] PHP Warning:  unlink(../images/642305a799693.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[09-Apr-2023 06:20:44 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:20:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[09-Apr-2023 06:20:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[09-Apr-2023 06:20:55 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:23:22 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:23:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[09-Apr-2023 06:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[09-Apr-2023 06:23:30 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:26:07 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compress_image() in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 103
+[09-Apr-2023 06:26:57 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:27:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compress_image() in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 103
+[09-Apr-2023 06:27:38 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 215
+[09-Apr-2023 06:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compress_image() in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 103
+[09-Apr-2023 06:39:13 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 242
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: source_url in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 130
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 77
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 95
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 95
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[09-Apr-2023 06:39:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[09-Apr-2023 06:39:48 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 242
+[09-Apr-2023 06:45:21 UTC] PHP Warning:  unlink(../images/6429147922163.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15
+[09-Apr-2023 06:49:17 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 242
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: source_url in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 130
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 77
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 89
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: image in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 95
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 95
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 12
+[09-Apr-2023 06:49:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/sitiqwtd/unnmarketplace.live/user/userheader.php on line 13
+[09-Apr-2023 06:49:41 UTC] PHP Notice:  Undefined variable: imagename in /home/sitiqwtd/unnmarketplace.live/user/updateitem.php on line 242
+[09-Apr-2023 15:12:50 UTC] PHP Warning:  unlink(../images/6429147922163.jpeg): No such file or directory in /home/sitiqwtd/unnmarketplace.live/user/pathunlink.php on line 15

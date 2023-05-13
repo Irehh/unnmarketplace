@@ -1,0 +1,22 @@
+
+
+PHP WEBSITE SECURITY & HACKING PREVENTION
+
+principle of least privilege
+passwords and encryption 
+data hiding
+security through obscurity
+account lock attacks
+brute force attacks
+modified requests
+error reporting
+forced browsing
+path traversal
+data parameter delimiters
+SQL/PHP injection attacks 
+XSS attacks
+session hijack / fixation
+phishing
+general security principles
+
+"dont trust user data"
