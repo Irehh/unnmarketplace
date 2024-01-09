@@ -99,7 +99,7 @@ if (!empty(!in_array($imageExtension, $validImageExtension)))
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Cartzilla | Multipurpose Bootstrap E-commerce Template</title>
+    <title></title>
     <!-- SEO Meta Tags-->
     <meta name="description" content="Cartzilla - Bootstrap E-commerce Template">
     <meta name="keywords" content="bootstrap, shop, e-commerce, market, modern, responsive,  business, mobile, bootstrap, html5, css3, js, gallery, slider, touch, creative, clean">

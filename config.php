@@ -6,9 +6,9 @@ function db()
     //set your configs here
 
     $hostname = "localhost";
-    $user = "sitiqwtd_unnmarketplace";
-    $password = "A1dav3V0Q1E2";
-    $db = "sitiqwtd_unnmarketplace";
+    $user = "root";
+    $password = "";
+    $db = "unnmarketplace";
 
     $conn = mysqli_connect($hostname, $user, $password , $db);
 

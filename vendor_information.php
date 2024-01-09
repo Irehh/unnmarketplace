@@ -43,13 +43,6 @@ if(!isset($user_id)){
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P7FCDD3');</script>
-<!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <title><?php echo $name; ?></title>
     <!-- SEO Meta Tags-->
@@ -59,7 +52,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:type"          content="website" />
      <meta property="og:title"         content="<?php echo $name; ?>" />
     <meta property="og:description"   content="<?php echo $about; ?>" />
-    <meta property="og:image"         content="https://www.unnmarketplace.live/profile_image/<?php echo $image; ?>" />
+    <meta property="og:image"         content="http://localhost/unnmarketplace/profile_image/<?php echo $image; ?>" />
     <!-- Viewport-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon and Touch Icons-->
@@ -78,10 +71,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </head>
   <!-- Body-->
   <body class="handheld-toolbar-enabled">
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7FCDD3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+      
     <main class="page-wrapper">
       <!-- Remove "navbar-sticky" class to make navigation bar scrollable with the page.-->
       <header class="bg-light shadow-sm navbar-sticky">
@@ -174,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <h6 class="pb-1">Send message</h6>
                   <?php  if(isset($_SESSION["message"])){
           ?>
-          <div class="alert alert-warning alert-dismissible fade show" role="alert"" >
+          <div class="alert alert-warning alert-dismissible fade show" role="alert">
             <p><?= $_SESSION["message"]; ?></p>
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
           </div>

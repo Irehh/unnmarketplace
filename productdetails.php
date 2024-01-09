@@ -21,7 +21,7 @@ $conn = db();
   $diff = safe($row["id"]);
   $timestamp = safe($row["date"]);
   $user_id = safe($row["user_id"]);
-  $url = "https://unnmarketplace.live/productdetails.php?id=$id";
+  $url = "http://localhost/unnmarketplace/productdetails.php?id=$id";
   $text = urlencode("I want to buy this item $url ");
 $sall = "for sale:&#20A6;";
 $count = $count + 1;
@@ -34,13 +34,6 @@ $count = $count + 1;
 <!DOCTYPE html>
 <html lang="en">
 <head>
-       <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P7FCDD3');</script>
-<!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <title><?php echo $dname; ?></title>
     <!-- SEO Meta Tags-->
@@ -60,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <!--Open graph tags-->
 <meta property="og:type"          content="website" />
 <meta property="og:description"   content="Buy or Sell used items for free." />
-<meta property="og:image"         content="https://unnmarketplace.live/images/<?php echo $dimage1; ?>" />
+<meta property="og:image"         content="http://localhost/unnmarketplace/images/<?php echo $dimage1; ?>" />
         <!-- comments files link -->
     <script src="./4b-comments.js"></script>
     <link href="./4c-comments.css" rel="stylesheet">
@@ -74,10 +67,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
   <!-- Body-->
   <body class="handheld-toolbar-enabled">
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7FCDD3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
     <main class="page-wrapper">
       <!-- Remove "navbar-sticky" class to make navigation bar scrollable with the page.-->
       <header class="navbar d-block navbar-sticky navbar-expand-lg navbar-light bg-light">

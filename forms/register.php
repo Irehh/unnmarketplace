@@ -19,7 +19,7 @@ if(isset($_SESSION["authenticated"]))
     <meta name="author" content="Truth">
     <meta property="og:title"         content="Come sell with us!" />
     <meta property="og:description"   content="A marketplace for students to buy and sell used items for free." />
-    <meta property="og:image"         content="https://www.unnmarketplace.live/img/UNN_Fountain.png" />
+    <meta property="og:image"         content="http://localhost/unnmarketplace/img/UNN_Fountain.png" />
     <!-- Viewport-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon and Touch Icons-->

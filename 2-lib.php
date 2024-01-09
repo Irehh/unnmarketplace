@@ -46,10 +46,10 @@ class Comments {
 
 // (F) DATABASE SETTINGS - CHANGE TO YOUR OWN !
 define("DB_HOST", "localhost");
-define("DB_NAME", "sitiqwtd_unnmarketplace");
+define("DB_NAME", "unnmarketplace");
 define("DB_CHARSET", "utf8mb4");
-define("DB_USER", "sitiqwtd_unnmarketplace");
-define("DB_PASSWORD", "A1dav3V0Q1E2");
+define("DB_USER", "root");
+define("DB_PASSWORD", "");
 
 // (G) COMMMENTS OBJECT
 $_COM = new Comments();

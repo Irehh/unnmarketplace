@@ -2,21 +2,13 @@
 include "config.php";
 session_start();
 $conn = db();
- $url = "https://unnmarketplace.live";
+ $url = "http://localhost/unnmarketplace/";
   $url = urlencode("$url");
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P7FCDD3');</script>
-<!-- End Google Tag Manager -->
-    <!--do not delete for indexing-->
-    <meta name="google-site-verification" content="WK01Pkl0iYCqVP0wBJqNbElHLxZioltZ2_LQNHLR6DE" />
+
     <meta charset="utf-8">
     <title>Buy & Sell Online from the community </title>
     <!-- SEO Meta Tags-->
@@ -36,11 +28,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
     <!-- dont delete for link preview -->
-    <!--<meta property="og:url"           content="<?php echo urlencode('https://www.unnmarketplace.live'); ?> " />-->
+    <!--<meta property="og:url"           content="<?php echo urlencode('http://localhost/unnmarketplace'); ?> " />-->
     <!--<meta property="og:type"          content="website" />-->
     <meta property="og:title"         content="Local Online Marketplace" />
     <meta property="og:description"   content="Buy or Sell used items for free." />
-    <meta property="og:image"         content="https://www.unnmarketplace.live/img/UNN_Fountain.png" />
+    <meta property="og:image"         content="http://localhost/unnmarketplace/img/UNN_Fountain.png" />
     <!-- Vendor Styles including: Font Icons, Plugins, etc.-->
     <link rel="stylesheet" media="screen" href="vendor/simplebar/dist/simplebar.min.css"/>
     <link rel="stylesheet" media="screen" href="vendor/tiny-slider/dist/tiny-slider.css"/>
@@ -50,10 +42,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
   <!-- Body-->
   <body class="handheld-toolbar-enabled">
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7FCDD3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
      <!-- Topbar-->
      <div class="topbar topbar-dark bg-dark">
           <div class="container">
@@ -110,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <!-- Item-->
           <div class="px-lg-5" style="background-color: #3aafd2;">
-            <div class="d-lg-flex justify-content-between align-items-center ps-lg-4"><img class="d-block order-lg-2 me-lg-n5 flex-shrink-0" src="img/hero-slider/11.jpg" alt="Summer Collection">
+            <div class="d-lg-flex justify-content-between align-items-center ps-lg-4"><img class="d-block order-lg-2 me-lg-n5 flex-shrink-0" src="img/hero-slider/01.jpg" alt="Summer Collection">
               <div class="position-relative mx-auto me-lg-n5 py-5 px-4 mb-lg-5 order-lg-1" style="max-width: 42rem; z-index: 10;">
                 <div class="pb-lg-5 mb-lg-5 text-center text-lg-start text-lg-nowrap">
                   <h3 class="h2 text-light fw-light pb-1 from-start">We Welcome Everyone!</h3>
@@ -280,7 +268,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <main class="container-fluid px-0">
         <!-- Row: Shop online-->
         <section class="row g-0">
-          <div class="col-md-6 bg-position-center bg-size-cover bg-secondary" style="min-height: 15rem; background-image: url(img/Marketplace-pana.png);"></div>
+          <div class="col-md-6 bg-position-center bg-size-cover bg-secondary" style="min-height: 15rem; background-image: url(img/unnmart/Marketplace-pana.png);"></div>
           <div class="col-md-6 px-3 px-md-5 py-5">
             <div class="mx-auto py-lg-5" style="max-width: 35rem;">
               <h2 class="h3 pb-3">

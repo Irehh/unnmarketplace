@@ -32,7 +32,7 @@ require '../PHPMailer/src/SMTP.php';
         $mail->Subject = 'Email verification from UNNMarketplace';
         $email_template = "<h3>You have registered with unnmarketplace</h3>
         <h5>Verify your email address to login with the below link and start selling.</h5><br>
-        <a href='https://unnmarketplace.live/forms/Verify_account.php?token=$verifytoken'>Click me</a>";
+        <a href='http://localhost/unnmarketplace/forms/Verify_account.php?token=$verifytoken'>Click me</a>";
         $mail->Body = $email_template;
         // $email_template = "<h3>You have registered with unnmarketplace</h3>
         // <h5>Verify your email address to login with the below link and start selling.</h5><br>
@@ -71,7 +71,7 @@ require '../PHPMailer/src/SMTP.php';
         $mail->Subject = 'Resend - Email verification from UNNMarketplace';
         $email_template = "<h3>You have registered with unnmarketplace</h3>
         <h5>You Requested for your account verification code. Verify your email address to login with the below link</h5>
-        <a href='https://unnmarketplace.live/forms/verify_account.php?token=$verifytoken'>Click me</a>";
+        <a href='http://localhost/unnmarketplace/forms/verify_account.php?token=$verifytoken'>Click me</a>";
         $mail->Body = $email_template;
 
         if(!($mail->send()))
@@ -103,7 +103,7 @@ require '../PHPMailer/src/SMTP.php';
         $mail->Subject = 'Reset Password Notification from UNN Marketplace';
         $email_template = "<h3>Email verification</h3>
         <h5>You Requested to reset yourpassword. Verify your email address to login with the below link</h5>
-        <a href='https://unnmarketplace.live/php/action.php?reset_token=$verifytoken'>Click me</a>";
+        <a href='http://localhost/unnmarketplace/php/action.php?reset_token=$verifytoken'>Click me</a>";
         $mail->Body = $email_template;
 
         if(!($mail->send()))

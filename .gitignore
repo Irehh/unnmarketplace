@@ -1,8 +1,9 @@
-vendor/
-css/
-img/
-images/
-js/
-phpmailer/
-fonts/
-profile_image/
+# vendor/
+# css/
+# img/
+# images/
+# js/
+# phpmailer/
+# fonts/
+# profile_image/
+sitiqwtd_unnmarketplace.sql
