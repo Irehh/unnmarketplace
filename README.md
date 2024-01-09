@@ -31,9 +31,7 @@ Some functionalities
 4. Edit the ```config.ph``` accordinly to server req 
 5. set up your email to send email and insert your details into ```.send.php``` file
 6. admin@gmail.com pw- 1111 and for users user@gmail.com pw - 1111
-6 report any error
-
-### Badges
+7 report any error
 
 
 ### Reach me on twitter(X)
