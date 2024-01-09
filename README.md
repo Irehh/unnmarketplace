@@ -1,11 +1,13 @@
 # unnmarketplace with pure PHP
-# online marketplace to sell used items or free on campus at the university of Nigeria Nsukka.
+
+* online marketplace to sell used items or free on campus at the university of Nigeria Nsukka.
 
 Hi! How the project look like
-![Alt text](images/1.jpeg)
-![Alt text](images/2.jpeg)
-![Alt text](images/3.jpeg)
-![Alt text](images/4.jpeg)
+
+![pic](img/1.png)
+![pic ](img/2.png)
+![details ](img/3.png)
+![image ](img/4.png)
 
 =======================================================================================================================================
 
