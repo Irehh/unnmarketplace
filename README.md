@@ -36,7 +36,7 @@ Some functionalities
 ### Badges
 
 
-### Support Me
+### Reach me on twitter(X)
 
-<a href="https://www.buymeacoffee.com/irehh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://twitter.com/TruthIrechukwu">truthirechukwu</a>
 
