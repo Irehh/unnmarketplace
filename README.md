@@ -28,6 +28,7 @@ Some functionalities
 3. Import db file(``` unnmarketplace.sql```) into your database (```unnmarketplace,sql```)
 4. Edit the ```config.ph``` accordinly to server req 
 5. set up your email to send email and insert your details into ```.send.php``` file
+6. admin@gmail.com pw- 1111 and for users user@gmail.com pw - 1111
 6 report any error
 
 ### Badges
